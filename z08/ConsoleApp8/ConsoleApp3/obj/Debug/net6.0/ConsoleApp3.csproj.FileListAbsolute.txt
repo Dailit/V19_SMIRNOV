@@ -1,0 +1,15 @@
+C:\Users\infor\OneDrive\Рабочий стол\z01\z08\ConsoleApp8\ConsoleApp3\bin\Debug\net6.0\ConsoleApp3.exe
+C:\Users\infor\OneDrive\Рабочий стол\z01\z08\ConsoleApp8\ConsoleApp3\bin\Debug\net6.0\ConsoleApp3.deps.json
+C:\Users\infor\OneDrive\Рабочий стол\z01\z08\ConsoleApp8\ConsoleApp3\bin\Debug\net6.0\ConsoleApp3.runtimeconfig.json
+C:\Users\infor\OneDrive\Рабочий стол\z01\z08\ConsoleApp8\ConsoleApp3\bin\Debug\net6.0\ConsoleApp3.dll
+C:\Users\infor\OneDrive\Рабочий стол\z01\z08\ConsoleApp8\ConsoleApp3\bin\Debug\net6.0\ref\ConsoleApp3.dll
+C:\Users\infor\OneDrive\Рабочий стол\z01\z08\ConsoleApp8\ConsoleApp3\bin\Debug\net6.0\ConsoleApp3.pdb
+C:\Users\infor\OneDrive\Рабочий стол\z01\z08\ConsoleApp8\ConsoleApp3\obj\Debug\net6.0\ConsoleApp3.csproj.AssemblyReference.cache
+C:\Users\infor\OneDrive\Рабочий стол\z01\z08\ConsoleApp8\ConsoleApp3\obj\Debug\net6.0\ConsoleApp3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\infor\OneDrive\Рабочий стол\z01\z08\ConsoleApp8\ConsoleApp3\obj\Debug\net6.0\ConsoleApp3.AssemblyInfoInputs.cache
+C:\Users\infor\OneDrive\Рабочий стол\z01\z08\ConsoleApp8\ConsoleApp3\obj\Debug\net6.0\ConsoleApp3.AssemblyInfo.cs
+C:\Users\infor\OneDrive\Рабочий стол\z01\z08\ConsoleApp8\ConsoleApp3\obj\Debug\net6.0\ConsoleApp3.csproj.CoreCompileInputs.cache
+C:\Users\infor\OneDrive\Рабочий стол\z01\z08\ConsoleApp8\ConsoleApp3\obj\Debug\net6.0\ConsoleApp3.dll
+C:\Users\infor\OneDrive\Рабочий стол\z01\z08\ConsoleApp8\ConsoleApp3\obj\Debug\net6.0\ref\ConsoleApp3.dll
+C:\Users\infor\OneDrive\Рабочий стол\z01\z08\ConsoleApp8\ConsoleApp3\obj\Debug\net6.0\ConsoleApp3.pdb
+C:\Users\infor\OneDrive\Рабочий стол\z01\z08\ConsoleApp8\ConsoleApp3\obj\Debug\net6.0\ConsoleApp3.genruntimeconfig.cache

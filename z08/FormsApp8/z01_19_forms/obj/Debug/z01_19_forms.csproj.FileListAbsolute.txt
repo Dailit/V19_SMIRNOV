@@ -1,0 +1,11 @@
+C:\Users\infor\OneDrive\Рабочий стол\z01\z08\FormsApp8\z01_19_forms\bin\Debug\z01_19_forms.exe.config
+C:\Users\infor\OneDrive\Рабочий стол\z01\z08\FormsApp8\z01_19_forms\bin\Debug\z01_19_forms.exe
+C:\Users\infor\OneDrive\Рабочий стол\z01\z08\FormsApp8\z01_19_forms\bin\Debug\z01_19_forms.pdb
+C:\Users\infor\OneDrive\Рабочий стол\z01\z08\FormsApp8\z01_19_forms\obj\Debug\z01_19_forms.csproj.AssemblyReference.cache
+C:\Users\infor\OneDrive\Рабочий стол\z01\z08\FormsApp8\z01_19_forms\obj\Debug\z01_19_forms.csproj.SuggestedBindingRedirects.cache
+C:\Users\infor\OneDrive\Рабочий стол\z01\z08\FormsApp8\z01_19_forms\obj\Debug\z01_19_forms.Form1.resources
+C:\Users\infor\OneDrive\Рабочий стол\z01\z08\FormsApp8\z01_19_forms\obj\Debug\z01_19_forms.Properties.Resources.resources
+C:\Users\infor\OneDrive\Рабочий стол\z01\z08\FormsApp8\z01_19_forms\obj\Debug\z01_19_forms.csproj.GenerateResource.cache
+C:\Users\infor\OneDrive\Рабочий стол\z01\z08\FormsApp8\z01_19_forms\obj\Debug\z01_19_forms.csproj.CoreCompileInputs.cache
+C:\Users\infor\OneDrive\Рабочий стол\z01\z08\FormsApp8\z01_19_forms\obj\Debug\z01_19_forms.exe
+C:\Users\infor\OneDrive\Рабочий стол\z01\z08\FormsApp8\z01_19_forms\obj\Debug\z01_19_forms.pdb
